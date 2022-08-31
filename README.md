@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-Me chamo Bruno Romaniv da Silva, sou engenheiro eletricista e fiz pós graduação em Desenvolvimento Full Stack utilizando React e Nodejs.
-Meu objetivo é resolver problemas relacionados a engenharia utilizando as linguagues de programação mais recentes do mercado.
+Me chamo Bruno Romaniv da Silva, sou engenheiro eletricista e fiz pós graduação em Desenvolvimento Full Stack na XP Educação utilizando React e Nodejs.
+Meu objetivo é resolver problemas relacionados a engenharia utilizando as linguagens de programação mais recentes do mercado.
 
-My name is Bruno Romaniv da Silva, I'm an electrical engineer and I did a postgraduate degree in Full Stack Development using React and Nodejs.
+My name is Bruno Romaniv da Silva, I'm an electrical engineer and I did a postgraduate degree in Full Stack Development at XP Educação using React and Nodejs.
 My goal is to solve engineering-related problems using the latest programming languages on the market.
 
 ### Contact me 👍
