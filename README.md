@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-Me chamo Rafael Kazuo, sou e estudante de desenvolvimento web FullStack na Trybe também formado em Design de Games, estudante de ilustração e amante das artes.
-Meu maior objetivo e motivação é resolver problemas e acredito que, como Dev, tenho as ferramentas necessárias para tornar a vida das pessoas um pouco menos difícil :)
+Me chamo Bruno Romaniv da Silva, sou engenheiro eletricista e fiz pós graduação em Desenvolvimento Full Stack utilizando React e Nodejs.
+Meu objetivo é resolver problemas relacionados a engenharia utilizando as linguagues de programação mais recentes do mercado.
 
-My name is Rafael Kazuo, I am a student of Web Development Fullstack at Trybe, also graduated in Game Design, an illustrator and art enthusiast.
-My greates goal and motivation is to fix problems, and i believe that, as a Dev, I have the necessary tools to make people's lives a little less dificult :)
+My name is Bruno Romaniv da Silva, I'm an electrical engineer and I did a postgraduate degree in Full Stack Development using React and Nodejs.
+My goal is to solve engineering-related problems using the latest programming languages on the market.
 
 ### Contact me 👍
 
